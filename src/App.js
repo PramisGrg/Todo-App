@@ -1,10 +1,10 @@
 import "./App.css";
-import Todowrapper from "./components/Todowrapper";
+import TodoForm from "./components/TodoForm";
 
 function App() {
   return (
     <div>
-      <Todowrapper />
+      <TodoForm />
     </div>
   );
 }
